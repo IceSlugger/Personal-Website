@@ -16,3 +16,7 @@ A bold responsive one-page portfolio site built with semantic HTML, CSS, and Jav
 ## Run Locally
 
 Open `index.html` directly in a browser.
+
+## GitHub Pages
+
+The `docs/` folder mirrors the static site because GitHub Pages is configured to publish from `/docs`.
