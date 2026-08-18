@@ -8,7 +8,7 @@ A bold responsive one-page portfolio site built with semantic HTML, CSS, and Jav
 - Animated role strip
 - About section connecting finance, ERP, and web development
 - Tools and skills grouped by web, ERP, and analytics
-- Featured work rows for portfolio, ERP, and finance operations
+- Featured work rows for harder Odin projects with website and GitHub links
 - The Odin Project learning section
 - Experience timeline
 - LinkedIn and email contact call-to-action

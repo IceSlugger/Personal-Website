@@ -494,6 +494,34 @@ body.nav-open .menu-toggle span:last-child {
   font-weight: 900;
 }
 
+.work-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.work-links a {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--ink);
+  border-radius: var(--radius);
+  padding: 10px 14px;
+  color: var(--white);
+  background: var(--ink);
+  font-weight: 950;
+}
+
+.work-links a:hover,
+.work-links a:focus-visible {
+  color: var(--white);
+  background: var(--teal);
+  border-color: var(--teal);
+  outline: none;
+}
+
 .odin-section {
   background: #edf2ee;
   border-block: 1px solid var(--line);
@@ -768,6 +796,7 @@ body.nav-open .menu-toggle span:last-child {
   }
 
   .button,
+  .work-links a,
   .contact-links a {
     width: 100%;
   }
