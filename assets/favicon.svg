@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Adrian Chia monogram</title>
+  <rect width="64" height="64" fill="#101822"/>
+  <path d="M14 49 29 15h7l15 34h-8l-3-8H25l-3 8h-8Zm14-15h9l-4-11h-1l-4 11Z" fill="#f4f7f8"/>
+  <path d="M50 18c-3-3-7-5-12-5-11 0-19 8-19 19s8 19 19 19c5 0 9-2 12-5l-4-6c-2 2-5 3-8 3-6 0-11-5-11-11s5-11 11-11c3 0 6 1 8 3l4-6Z" fill="#0f766e" opacity=".72"/>
+</svg>
